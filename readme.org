@@ -1,10 +1,14 @@
 #+TITLE: Wordle Solver
 
 Solves the wordle puzzle. Currently only Turkish version exists.
-[[https://f.github.io/wordle-tr/]]
+[[
+https://f.github.io/wordle-tr/]]
+
 
 2 -> Correct letter and correct place
+
 1 -> Correct letter and incorrect place
+
 0 -> Incorrect letter
 
 #+begin_src bash
